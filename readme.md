@@ -1,1 +1,3 @@
-ILRP Gamemode edited and created by DhruV from base gamemode.
+# ILRP_SAMP
+# ILRP_SAMP
+# ILRP_SAMP
