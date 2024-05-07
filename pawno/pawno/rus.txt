@@ -1,0 +1,9 @@
+C:\Users\ABC\Desktop\LGRP\gamemodes\j_main - Copy (2).pwn(27144) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\ABC\Desktop\LGRP\gamemodes\j_main - Copy (2).pwn(148370) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "pc_cmd_mydata" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\ABC\Desktop\LGRP\gamemodes\j_main - Copy (2).pwn(148388) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "pc_cmd_teleport" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\ABC\Desktop\LGRP\gamemodes\j_main - Copy (2).pwn(2089) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetNearbySafezone"
+C:\Users\ABC\Desktop\LGRP\gamemodes\j_main - Copy (2).pwn(27144) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "shopkeeper"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:3.
