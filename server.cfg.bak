@@ -1,0 +1,28 @@
+echo Executing Server Config...
+lanmode 0
+rcon_password f0vzy7ej
+maxplayers 100
+port 4444
+hostname Long Genaration Roleplay 
+gamemode0 j_main
+password 
+filterscripts android-check
+plugins discord-connector.so crashdetect.so whirlpool.so pawncmd.so sscanf.so streamer.so SKY.so mysql_static.so sampvoice.so nativechecker.so
+announce 1
+chatlogging 1
+weburl 
+onfoot_rate 40
+incar_rate 40
+weapon_rate 40
+stream_distance 300.0
+stream_rate 1000
+actslimit 3500
+maxnpc 0
+logtimeformat [%H:%M:%S]
+language English/Tagalog
+rcon 0
+query 1
+password
+cookielogging 
+minconnectiontime 0
+discord_bot_token MTAwMTEzNjM0MzEwMDk2ODk4MA.GdiGIm.WNxC0-vMio8zkr-E1X0P6QW8Zyr0TvbwJqpcM0

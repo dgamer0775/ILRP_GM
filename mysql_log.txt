@@ -1,0 +1,321 @@
+[07:51:43 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:43 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:43 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:43 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:43 11/13/22] [ERROR] CMySQLQuery::Execute[OnQueryFinished] - (error #1146) Table 'LGRP.billboards' doesn't exist (Query: "SELECT * FROM `billboards`")
+[07:51:43 11/13/22] [ERROR] CMySQLQuery::Execute[OnQueryFinished] - (error #1146) Table 'LGRP.safezones' doesn't exist (Query: "SELECT * FROM safezones")
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:43 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:51:43 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:51:43 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:51:55 11/13/22] [WARNING] CMySQLHandle::Create - connection already exists
+[07:51:55 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:55 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:55 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:55 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:51:55 11/13/22] [ERROR] CMySQLQuery::Execute[OnQueryFinished] - (error #1146) Table 'LGRP.billboards' doesn't exist (Query: "SELECT * FROM `billboards`")
+[07:51:55 11/13/22] [ERROR] CMySQLQuery::Execute[OnQueryFinished] - (error #1146) Table 'LGRP.safezones' doesn't exist (Query: "SELECT * FROM safezones")
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:51:55 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:51:55 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:51:55 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:52:07 11/13/22] [WARNING] CMySQLHandle::Create - connection already exists
+[07:52:07 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:52:07 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:52:07 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:52:07 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:52:07 11/13/22] [ERROR] CMySQLQuery::Execute[OnQueryFinished] - (error #1146) Table 'LGRP.billboards' doesn't exist (Query: "SELECT * FROM `billboards`")
+[07:52:07 11/13/22] [ERROR] CMySQLQuery::Execute[OnQueryFinished] - (error #1146) Table 'LGRP.safezones' doesn't exist (Query: "SELECT * FROM safezones")
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[07:52:07 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:52:07 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:52:07 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("theme") (Query: "SELECT * FROM gangs")
+[07:59:17 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:59:17 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:59:17 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:59:17 11/13/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[07:59:17 11/13/22] [ERROR] CMySQLQuery::Execute[UploadAntiCheat] - (error #1146) Table 'LGRP.anticheat_settings' doesn't exist (Query: "SELECT * FROM `anticheat_settings`")
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[08:03:53 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:03:53 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT * FROM users WHERE uid = 1")
+[08:27:09 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:16:23 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:16:23 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT * FROM users WHERE uid = 2")
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:18:15 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('1') (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[13:18:15 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[14:00:58 11/13/22] [ERROR] cache_get_field_content_int - invalid datatype
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[14:00:58 11/13/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[00:26:32 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:26:32 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[00:29:11 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[01:54:40 11/14/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[01:54:40 11/14/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[01:54:40 11/14/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[01:54:40 11/14/22] [ERROR] CMySQLQuery::Execute[UploadAntiCheat] - (error #1146) Table 'LGRP.anticheat_settings' doesn't exist (Query: "SELECT * FROM `anticheat_settings`")
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:54:40 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:57:12 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[01:57:12 11/14/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Jef_Costello' AND password = '16BE744583F50574C877C96859F1667191BF48679439E8F9ADD3D7B71204AF28DCAFCCED09EDC6896DC3C1391E03BA98FE66D05688673416FB4457F4A7C8F866'")
+[02:07:24 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[02:13:31 11/14/22] [ERROR] cache_get_field_content_int - invalid datatype
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[03:25:49 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:25:49 11/15/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Chekuthan_Lazar' AND password = 'EC7A79AC90B926A040DEB5E3601C9BF4EA7FF2EB421AE2B683F1EAE4C2E822D500B9559E4E18833546BCAEC3937F3689C545A4ADC46AE5759BE4714C07E9B258'")
+[03:27:47 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:24 11/15/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[12:52:24 11/15/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[12:52:24 11/15/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[12:52:24 11/15/22] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user 'LGRP'@'%' to database 'shoutcast'
+[12:52:24 11/15/22] [ERROR] CMySQLQuery::Execute[UploadAntiCheat] - (error #1146) Table 'LGRP.anticheat_settings' doesn't exist (Query: "SELECT * FROM `anticheat_settings`")
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[12:52:25 11/15/22] [ERROR] cache_get_field_content_int - invalid datatype
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[16:49:54 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:49:54 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT * FROM users WHERE uid = 3")
+[16:51:03 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:02:13 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:02:13 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("citizen") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("factionban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("gangban") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:06:12 11/16/22] [ERROR] cache_get_field_content_int - invalid datatype
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot1") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot2") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot3") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot4") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")
+[17:06:12 11/16/22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("bindslot5") (Query: "SELECT *, DATE_FORMAT(lastlogin, '%D of %M, %Y @ %k:%i') AS login_date FROM users WHERE username = 'Bruce_Banner' AND password = '9C7951394171346E068F0045838861869A4A9B522CC97BB23AFA70FDCAEEBDD8A052BE6251007737D606EB72E0FA92824CF35120C7A33A66C91537B8708C1282'")

@@ -1,0 +1,1042 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:51:41] password = ""  (string)
+[07:51:41] weburl = "www.sa-mp.com"  (string)
+[07:51:41] password = ""  (string)
+[07:51:41] 
+[07:51:41] Server Plugins
+[07:51:41] --------------
+[07:51:41]  Loading plugin: discord-connector.so
+[07:51:43]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: crashdetect.so
+[07:51:43]   CrashDetect plugin 4.19.4
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: whirlpool.so
+[07:51:43]  
+[07:51:43]  ==================
+[07:51:43]  
+[07:51:43]   Whirlpool loaded
+[07:51:43]  
+[07:51:43]  ==================
+[07:51:43]  
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: pawncmd.so
+[07:51:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: sscanf.so
+[07:51:43] 
+
+[07:51:43]  ===============================
+
+[07:51:43]       sscanf plugin loaded.     
+
+[07:51:43]          Version:  2.8.3        
+
+[07:51:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:51:43]  ===============================
+
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: streamer.so
+[07:51:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: SKY.so
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: mysql_static.so
+[07:51:43]  >> plugin.mysql: R39-6 successfully loaded.
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: sampvoice.so
+[07:51:43] [sv:dbg:network:init] : module initializing...
+[07:51:43] [dbg:raknet:init] : module initializing...
+[07:51:43] [dbg:raknet:init] : module initialized
+[07:51:43] [sv:dbg:network:init] : module initialized
+[07:51:43] [sv:dbg:main:Load] : creating 1 work threads...
+[07:51:43]  -------------------------------------------    
+[07:51:43]    ___                __   __    _              
+[07:51:43]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[07:51:43]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[07:51:43]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[07:51:43]                   |_|                           
+[07:51:43]  -------------------------------------------    
+[07:51:43]            SampVoice by MOR loaded              
+[07:51:43]  -------------------------------------------    
+[07:51:43]   Loaded.
+[07:51:43]  Loading plugin: nativechecker.so
+[07:51:43]   Loaded.
+[07:51:43]  Loaded 10 plugins.
+
+[07:51:43] 
+[07:51:43] Filterscripts
+[07:51:43] ---------------
+[07:51:43]   Loading filterscript 'android-check.amx'...
+[07:51:43] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8314780) received
+[07:51:43] [sv:dbg:network:bind] : voice server running on port 43418
+[07:51:43] Android check has been successfully loaded.
+[07:51:43]   Loaded 1 filterscripts.
+
+[07:51:43] OnScriptInit 1
+[07:51:43]  
+[07:51:43]  
+[07:51:43]  
+[07:51:43]  ======================================= 
+[07:51:43]  |                                     | 
+[07:51:43]  |        YSI version 1.06.0002        | 
+[07:51:43]  |        By Alex "Y_Less" Cole        | 
+[07:51:43]  |                                     | 
+[07:51:43]  ======================================= 
+[07:51:43]  
+[07:51:43] OnScriptInit 2
+[07:51:43] OnScriptInit 3
+[07:51:43] Iter_OnGameModeInit start: 1000
+[07:51:43] MapFix by Nexius v4.2.1 loaded (include version).
+[07:51:43] Couldn't connect to radio station database... server will continue to operate normally.
+[07:51:43] [LoadAntiCheat] Loading data from database...
+[07:51:43] Long Genaration Roleplay
+[07:51:43] 225 objects loaded.
+[07:51:43] Iter_OnGameModeInit: first
+[07:51:43] OnScriptInit 4
+[07:51:43]  
+[07:51:43] -------------------------------------------
+[07:51:43] Loading...
+[07:51:43] Long Genaration Roleplay (2020 - 2022)
+[07:51:43] -------------------------------------------
+[07:51:43]  
+[07:51:43] Number of vehicle models: 12
+[07:51:43] [Script] 67 houses loaded.
+[07:51:43] [Script] 15 garages loaded.
+[07:51:43] [Script] 35 businesses loaded.
+[07:51:43] [Script] 122 entrances loaded.
+[07:51:43] [Script] 9 factions loaded.
+[07:51:43] [Script] 0 lands loaded.
+[07:51:43] [Script] 3 gangs loaded.
+[07:51:43] [Script] 1 points loaded.
+[07:51:43] [Script] 23 turfs loaded.
+[07:51:43] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[07:51:43] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[07:51:43] [Script] 0 speed camera(s) loaded
+[07:51:43] [MySQL]: Anti-cheat settings were not found in the database. Loading of the mod stopped - configure anti-cheat. 
+[07:51:43] MapFix by Nexius v4.2.1 unloaded (include version).
+[07:51:55] OnScriptInit 1
+[07:51:55]  
+[07:51:55]  
+[07:51:55]  
+[07:51:55]  ======================================= 
+[07:51:55]  |                                     | 
+[07:51:55]  |        YSI version 1.06.0002        | 
+[07:51:55]  |        By Alex "Y_Less" Cole        | 
+[07:51:55]  |                                     | 
+[07:51:55]  ======================================= 
+[07:51:55]  
+[07:51:55] OnScriptInit 2
+[07:51:55] OnScriptInit 3
+[07:51:55] Iter_OnGameModeInit start: 1000
+[07:51:55] MapFix by Nexius v4.2.1 loaded (include version).
+[07:51:55] Couldn't connect to radio station database... server will continue to operate normally.
+[07:51:55] [LoadAntiCheat] Loading data from database...
+[07:51:55] Long Genaration Roleplay
+[07:51:55] 225 objects loaded.
+[07:51:55] Iter_OnGameModeInit: first
+[07:51:55] OnScriptInit 4
+[07:51:55]  
+[07:51:55] -------------------------------------------
+[07:51:55] Loading...
+[07:51:55] Long Genaration Roleplay (2020 - 2022)
+[07:51:55] -------------------------------------------
+[07:51:55]  
+[07:51:55] Number of vehicle models: 12
+[07:51:55] [Script] 67 houses loaded.
+[07:51:55] [Script] 15 garages loaded.
+[07:51:55] [Script] 35 businesses loaded.
+[07:51:55] [Script] 122 entrances loaded.
+[07:51:55] [Script] 9 factions loaded.
+[07:51:55] [Script] 0 lands loaded.
+[07:51:55] [Script] 3 gangs loaded.
+[07:51:55] [Script] 1 points loaded.
+[07:51:55] [Script] 23 turfs loaded.
+[07:51:55] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[07:51:55] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[07:51:55] [Script] 0 speed camera(s) loaded
+[07:51:55] [MySQL]: Anti-cheat settings were not found in the database. Loading of the mod stopped - configure anti-cheat. 
+[07:51:55] MapFix by Nexius v4.2.1 unloaded (include version).
+[07:52:07] OnScriptInit 1
+[07:52:07]  
+[07:52:07]  
+[07:52:07]  
+[07:52:07]  ======================================= 
+[07:52:07]  |                                     | 
+[07:52:07]  |        YSI version 1.06.0002        | 
+[07:52:07]  |        By Alex "Y_Less" Cole        | 
+[07:52:07]  |                                     | 
+[07:52:07]  ======================================= 
+[07:52:07]  
+[07:52:07] OnScriptInit 2
+[07:52:07] OnScriptInit 3
+[07:52:07] Iter_OnGameModeInit start: 1000
+[07:52:07] MapFix by Nexius v4.2.1 loaded (include version).
+[07:52:07] Couldn't connect to radio station database... server will continue to operate normally.
+[07:52:07] [LoadAntiCheat] Loading data from database...
+[07:52:07] Long Genaration Roleplay
+[07:52:07] 225 objects loaded.
+[07:52:07] Iter_OnGameModeInit: first
+[07:52:07] OnScriptInit 4
+[07:52:07]  
+[07:52:07] -------------------------------------------
+[07:52:07] Loading...
+[07:52:07] Long Genaration Roleplay (2020 - 2022)
+[07:52:07] -------------------------------------------
+[07:52:07]  
+[07:52:07] Number of vehicle models: 12
+[07:52:07] [Script] 67 houses loaded.
+[07:52:07] [Script] 15 garages loaded.
+[07:52:07] [Script] 35 businesses loaded.
+[07:52:07] [Script] 122 entrances loaded.
+[07:52:07] [Script] 9 factions loaded.
+[07:52:07] [Script] 0 lands loaded.
+[07:52:07] [Script] 3 gangs loaded.
+[07:52:07] [Script] 1 points loaded.
+[07:52:07] [Script] 23 turfs loaded.
+[07:52:07] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[07:52:07] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[07:52:07] [Script] 0 speed camera(s) loaded
+[07:52:07] [MySQL]: Anti-cheat settings were not found in the database. Loading of the mod stopped - configure anti-cheat. 
+[07:52:07] MapFix by Nexius v4.2.1 unloaded (include version).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:59:16] password = ""  (string)
+[07:59:16] weburl = "www.sa-mp.com"  (string)
+[07:59:16] password = ""  (string)
+[07:59:16] 
+[07:59:16] Server Plugins
+[07:59:16] --------------
+[07:59:16]  Loading plugin: discord-connector.so
+[07:59:17]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: crashdetect.so
+[07:59:17]   CrashDetect plugin 4.19.4
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: whirlpool.so
+[07:59:17]  
+[07:59:17]  ==================
+[07:59:17]  
+[07:59:17]   Whirlpool loaded
+[07:59:17]  
+[07:59:17]  ==================
+[07:59:17]  
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: pawncmd.so
+[07:59:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: sscanf.so
+[07:59:17] 
+
+[07:59:17]  ===============================
+
+[07:59:17]       sscanf plugin loaded.     
+
+[07:59:17]          Version:  2.8.3        
+
+[07:59:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:59:17]  ===============================
+
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: streamer.so
+[07:59:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: SKY.so
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: mysql_static.so
+[07:59:17]  >> plugin.mysql: R39-6 successfully loaded.
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: sampvoice.so
+[07:59:17] [sv:dbg:network:init] : module initializing...
+[07:59:17] [dbg:raknet:init] : module initializing...
+[07:59:17] [dbg:raknet:init] : module initialized
+[07:59:17] [sv:dbg:network:init] : module initialized
+[07:59:17] [sv:dbg:main:Load] : creating 1 work threads...
+[07:59:17]  -------------------------------------------    
+[07:59:17]    ___                __   __    _              
+[07:59:17]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[07:59:17]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[07:59:17]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[07:59:17]                   |_|                           
+[07:59:17]  -------------------------------------------    
+[07:59:17]            SampVoice by MOR loaded              
+[07:59:17]  -------------------------------------------    
+[07:59:17]   Loaded.
+[07:59:17]  Loading plugin: nativechecker.so
+[07:59:17]   Loaded.
+[07:59:17]  Loaded 10 plugins.
+
+[07:59:17] 
+[07:59:17] Filterscripts
+[07:59:17] ---------------
+[07:59:17]   Loading filterscript 'android-check.amx'...
+[07:59:17] [sv:dbg:main:AmxLoad] : net game pointer (value:0x97ac780) received
+[07:59:17] [sv:dbg:network:bind] : voice server running on port 33452
+[07:59:17] Android check has been successfully loaded.
+[07:59:17]   Loaded 1 filterscripts.
+
+[07:59:17] OnScriptInit 1
+[07:59:17]  
+[07:59:17]  
+[07:59:17]  
+[07:59:17]  ======================================= 
+[07:59:17]  |                                     | 
+[07:59:17]  |        YSI version 1.06.0002        | 
+[07:59:17]  |        By Alex "Y_Less" Cole        | 
+[07:59:17]  |                                     | 
+[07:59:17]  ======================================= 
+[07:59:17]  
+[07:59:17] OnScriptInit 2
+[07:59:17] OnScriptInit 3
+[07:59:17] Iter_OnGameModeInit start: 1000
+[07:59:17] MapFix by Nexius v4.2.1 loaded (include version).
+[07:59:17] Couldn't connect to radio station database... server will continue to operate normally.
+[07:59:17] [LoadAntiCheat] Loading data from database...
+[07:59:17] Long Genaration Roleplay
+[07:59:17] 225 objects loaded.
+[07:59:17] Iter_OnGameModeInit: first
+[07:59:17] OnScriptInit 4
+[07:59:17]  
+[07:59:17] -------------------------------------------
+[07:59:17] Loading...
+[07:59:17] Long Genaration Roleplay (2020 - 2022)
+[07:59:17] -------------------------------------------
+[07:59:17]  
+[07:59:17] Number of vehicle models: 12
+[07:59:17] [Script] 0 houses loaded.
+[07:59:17] [Script] 0 garages loaded.
+[07:59:17] [Script] 0 businesses loaded.
+[07:59:17] [Script] 0 entrances loaded.
+[07:59:17] [Script] 0 factions loaded.
+[07:59:17] [Script] 0 lands loaded.
+[07:59:17] [Script] 0 gangs loaded.
+[07:59:17] [Script] 0 points loaded.
+[07:59:17] [Script] 0 turfs loaded.
+[07:59:17] [Script] 0 safezone(s) loaded
+[07:59:17] [Script] 0 speed camera(s) loaded
+[07:59:17] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[08:03:34] [connection] 103.140.16.47:3741 requests connection cookie.
+[08:03:34] [connection] incoming connection: 103.140.16.47:3741 id: 0
+[08:03:35] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[08:03:35] [sv:dbg:network:connect] : player (0) assigned key (2f108c67816559e8)
+[08:03:35] [join] Chekuthan_Lazar has joined the server (0:103.140.16.47)
+[08:03:35] [sv:dbg:network:receive] : player (0) identified (port:3733)
+[08:04:08] New Account: {006400}[Chekuthan Lazar(0)] with an IP of (103.140.16.47).
+[08:04:48] [cmd] Chekuthan Lazar: [refund]
+[08:05:07] [cmd] Chekuthan Lazar: [settings]
+[08:06:37] [cmd] Chekuthan Lazar: [settings]
+[08:06:48] [cmd] Chekuthan Lazar: [verify]
+[08:06:52] [cmd] Chekuthan Lazar: [settings]
+[08:06:58] [cmd] Chekuthan Lazar: [settings]
+[08:22:26] AdmCmd: Chekuthan Lazar has made Chekuthan Lazar a Developer (9).
+[08:22:26] [cmd] Chekuthan Lazar: [09350281608]
+[08:25:17] [cmd] Chekuthan Lazar: [createpg]
+[08:25:34] [cmd] Chekuthan Lazar: [createpg]
+[08:25:41] [cmd] Chekuthan Lazar: [createpg]
+[08:25:49] [cmd] Chekuthan Lazar: [createpg]
+[08:26:07] [cmd] Chekuthan Lazar: [createpg]
+[08:26:18] [cmd] Chekuthan Lazar: [createpg]
+[08:26:29] [cmd] Chekuthan Lazar: [createpg]
+[08:37:16] [sv:dbg:network:connect] : disconnecting player (0) ...
+[08:37:16] [part] Chekuthan_Lazar has left the server (0:0)
+[13:11:44] [connection] 103.140.16.47:1703 requests connection cookie.
+[13:11:45] [connection] incoming connection: 103.140.16.47:1703 id: 0
+[13:11:46] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[13:11:46] [sv:dbg:network:connect] : player (0) assigned key (2f108c6779fe3084)
+[13:11:46] [join] Chekuthan_Lazar has joined the server (0:103.140.16.47)
+[13:11:46] [sv:dbg:network:receive] : player (0) identified (port:1745)
+[13:14:55] [sv:dbg:network:connect] : disconnecting player (0) ...
+[13:14:55] [part] Chekuthan_Lazar has left the server (0:2)
+[13:15:34] [connection] 103.140.16.47:2822 requests connection cookie.
+[13:15:35] [connection] incoming connection: 103.140.16.47:2822 id: 0
+[13:15:36] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[13:15:36] [sv:dbg:network:connect] : player (0) assigned key (2f108c678f23c9c0)
+[13:15:36] [join] Jef_Costello has joined the server (0:103.140.16.47)
+[13:15:36] [sv:dbg:network:receive] : player (0) identified (port:3567)
+[13:16:46] New Account: {006400}[Jef Costello(0)] with an IP of (103.140.16.47).
+[13:17:40] [connection] 49.15.203.92:47729 requests connection cookie.
+[13:17:40] [connection] incoming connection: 49.15.203.92:47729 id: 1
+[13:17:41] [sv:dbg:network:connect] : connecting player (1) with address (49.15.203.92) ...
+[13:17:41] [sv:dbg:network:connect] : player (1) assigned key (5ccb0f31e06c7a2d)
+[13:17:41] [join] Chekuthan_Lazar has joined the server (1:49.15.203.92)
+[13:17:41] [sv:dbg:network:receive] : player (1) identified (port:44902)
+[13:18:15] AdmCmd: Developer Chekuthan Lazar has logged in.
+[13:18:34] [cmd] Chekuthan Lazar: [makehelper]
+[13:18:39] [cmd] Chekuthan Lazar: [makehelper]
+[13:18:42] AdmCmd: Chekuthan Lazar has made Jef Costello a level 4 helper.
+[13:18:42] [cmd] Chekuthan Lazar: [makehelper]
+[13:18:50] [cmd] Chekuthan Lazar: [g]
+[13:18:54] ** Help Request: New Player Jef Costello (ID:0) is requesting a helper to show them around. **
+[13:19:32] Chekuthan Lazar has teleported to Jef Costello's position.
+[13:19:32] [cmd] Chekuthan Lazar: [goto]
+[13:19:59] AdmCmd: Chekuthan Lazar has made Jef Costello a level 0 helper.
+[13:19:59] [cmd] Chekuthan Lazar: [makehelper]
+[13:20:09] ** Help Request from Chekuthan Lazar[1]: test **
+[13:20:09] [cmd] Chekuthan Lazar: [gethelp]
+[13:20:32] AdmCmd: Chekuthan Lazar has made Jef Costello a Developer (9).
+[13:20:32] [cmd] Chekuthan Lazar: [makeadmin]
+[13:20:51] [cmd] Chekuthan Lazar: [w]
+[13:20:58] [chat] [Jef_Costello]: ok
+[13:21:15] [cmd] Jef Costello: [b]
+[13:23:49] [cmd] Chekuthan Lazar: [afk]
+[13:23:54] [chat] [Chekuthan_Lazar]: afk 0
+[13:24:00] [cmd] Chekuthan Lazar: [afk]
+[13:24:23] Jef Costello has teleported to Mall.
+[13:24:23] [cmd] Jef Costello: [goto]
+[13:24:47] [sv:dbg:network:connect] : disconnecting player (0) ...
+[13:24:47] [part] Jef_Costello has left the server (0:0)
+[13:25:54] [cmd] Chekuthan Lazar: [createpg]
+[13:26:05] [cmd] Chekuthan Lazar: [createpg]
+[13:26:47] [cmd] Chekuthan Lazar: [ddedit]
+[13:26:56] [cmd] Chekuthan Lazar: [ddedit]
+[13:27:17] [cmd] Chekuthan Lazar: [createpg]
+[13:27:47] AdmCmd: Chekuthan Lazar spawned a FCR-900.
+[13:27:47] [cmd] Chekuthan Lazar: [veh]
+[13:27:56] AdmCmd: Chekuthan Lazar spawned a Combine.
+[13:27:56] [cmd] Chekuthan Lazar: [veh]
+[13:28:13] AdmCmd: Chekuthan Lazar spawned a Picador.
+[13:28:13] [cmd] Chekuthan Lazar: [veh]
+[13:28:33] AdmCmd: Chekuthan Lazar spawned a Sadler.
+[13:28:33] [cmd] Chekuthan Lazar: [veh]
+[13:28:41] AdmCmd: Chekuthan Lazar spawned a Mountain Bike.
+[13:28:41] [cmd] Chekuthan Lazar: [veh]
+[13:28:54] AdmCmd: Chekuthan Lazar spawned a Cropduster.
+[13:28:54] [cmd] Chekuthan Lazar: [veh]
+[13:29:11] [cmd] Chekuthan Lazar: [goto]
+[13:29:19] Chekuthan Lazar has teleported to LS Airport.
+[13:29:19] [cmd] Chekuthan Lazar: [goto]
+[13:29:36] [death] Chekuthan_Lazar died 255
+[13:30:05] [sv:dbg:network:connect] : disconnecting player (1) ...
+[13:30:05] [part] Chekuthan_Lazar has left the server (1:0)
+[13:59:32] [connection] 103.140.16.47:2942 requests connection cookie.
+[13:59:33] [connection] incoming connection: 103.140.16.47:2942 id: 0
+[13:59:33] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[13:59:33] [sv:dbg:network:connect] : player (0) assigned key (2f108c679b0eb798)
+[13:59:33] [join] Chekuthan_Lazar has joined the server (0:103.140.16.47)
+[13:59:33] [sv:dbg:network:receive] : player (0) identified (port:1271)
+[14:00:05] [sv:dbg:network:connect] : disconnecting player (0) ...
+[14:00:05] [part] Chekuthan_Lazar has left the server (0:2)
+[14:00:38] [connection] 103.140.16.47:4414 requests connection cookie.
+[14:00:39] [connection] incoming connection: 103.140.16.47:4414 id: 0
+[14:00:40] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[14:00:40] [sv:dbg:network:connect] : player (0) assigned key (2f108c67348841c7)
+[14:00:40] [join] Jef_Costello has joined the server (0:103.140.16.47)
+[14:00:40] [sv:dbg:network:receive] : player (0) identified (port:5269)
+[14:00:58] AdmCmd: Developer Jef Costello has logged in.
+[14:01:30] [cmd] Jef Costello: [createbiz]
+[14:01:35] [cmd] Jef Costello: [createbiz]
+[14:02:10] [cmd] Jef Costello: [createbiz]
+[14:02:25] [cmd] Jef Costello: [createbiz]
+[14:02:42] [cmd] Jef Costello: [createbiz]
+[14:02:54] [cmd] Jef Costello: [createbiz]
+[14:03:23] [cmd] Jef Costello: [editbiz]
+[14:03:29] [cmd] Jef Costello: [editbiz]
+[14:03:35] [cmd] Jef Costello: [editbiz]
+[14:03:49] [cmd] Jef Costello: [editbiz]
+[14:04:03] [cmd] Jef Costello: [editbiz]
+[14:04:19] [cmd] Jef Costello: [editbiz]
+[14:04:31] [cmd] Jef Costello: [editbiz]
+[14:04:46] [cmd] Jef Costello: [editbiz]
+[14:05:04] [cmd] Jef Costello: [editbiz]
+[14:05:28] [cmd] Jef Costello: [ad]
+[14:05:51] [cmd] Jef Costello: [buy]
+[14:06:08] [cmd] Jef Costello: [editbiz]
+[14:06:13] Jef Costello with (989801) has just advertised using [/ad]
+[14:06:13] [cmd] Jef Costello: [ad]
+[14:06:56] Jef Costello with (989801) has just advertised using [/ad]
+[14:06:56] [cmd] Jef Costello: [ad]
+[14:07:22] [cmd] Jef Costello: [ad]
+[14:07:25] [cmd] Jef Costello: [ad]
+[14:07:32] Jef Costello with (989801) has just advertised using [/ad]
+[14:07:32] [cmd] Jef Costello: [ad]
+[14:07:56] [cmd] Jef Costello: [editbiz]
+[14:08:19] [cmd] Jef Costello: [bizhelp]
+[14:08:29] [cmd] Jef Costello: [businessmenu]
+[14:08:52] [cmd] Jef Costello: [bizinfo]
+[14:09:35] Jef Costello with (989801) has just advertised using [/ad]
+[14:09:35] [cmd] Jef Costello: [ad]
+[14:10:18] Jef Costello with (989801) has just advertised using [/ad]
+[14:10:18] [cmd] Jef Costello: [ad]
+[14:10:43] [cmd] Jef Costello: [bizinfo]
+[14:11:03] [cmd] Jef Costello: [factions]
+[14:11:07] [cmd] Jef Costello: [gangs]
+[14:11:18] [cmd] Jef Costello: [settings]
+[14:11:28] [cmd] Jef Costello: [verify]
+[14:11:31] [cmd] Jef Costello: [settings]
+[14:16:42] [cmd] Jef Costello: [goto]
+[14:16:53] Jef Costello has teleported to Gaton Hospital.
+[14:16:53] [cmd] Jef Costello: [goto]
+[14:17:37] Jef Costello has teleported to Boating Test.
+[14:17:37] [cmd] Jef Costello: [goto]
+[14:18:10] Jef Costello has teleported to Farm.
+[14:18:10] [cmd] Jef Costello: [goto]
+[14:19:50] Jef Costello has teleported to Northside (Fort Cartson).
+[14:19:50] [cmd] Jef Costello: [goto]
+[14:20:23] Jef Costello has teleported to Army Base.
+[14:20:23] [cmd] Jef Costello: [goto]
+[14:20:58] [cmd] Jef Costello: [jetpack]
+[14:21:07] [cmd] Jef Costello: [goto]
+[14:21:13] Jef Costello has teleported to Army Base.
+[14:21:13] [cmd] Jef Costello: [goto]
+[14:21:27] Jef Costello has teleported to Unity Station.
+[14:21:27] [cmd] Jef Costello: [goto]
+[14:22:08] [cmd] Jef Costello: [goto]
+[14:22:13] [cmd] Jef Costello: [goto]
+[14:22:17] [cmd] Jef Costello: [goto]
+[14:22:23] Jef Costello has teleported to Los Santos.
+[14:22:23] [cmd] Jef Costello: [goto]
+[14:22:35] [cmd] Jef Costello: [setarmorall]
+[14:22:39] AdmCmd: Jef Costello set everyone's armor to 100.0.
+[14:22:39] [cmd] Jef Costello: [setarmorall]
+[14:23:02] [cmd] Jef Costello: [ah]
+[14:23:34] [cmd] Jef Costello: [changename]
+[14:23:47] Jef Costello has teleported to Mall.
+[14:23:47] [cmd] Jef Costello: [goto]
+[14:24:07] [sv:dbg:network:connect] : disconnecting player (0) ...
+[14:24:07] [part] Jef_Costello has left the server (0:1)
+[00:24:09] [connection] 103.140.16.47:1157 requests connection cookie.
+[00:24:10] [connection] incoming connection: 103.140.16.47:1157 id: 0
+[00:24:10] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[00:24:10] [sv:dbg:network:connect] : player (0) assigned key (2f108c676e3d5792)
+[00:24:10] [join] Jef_Costello has joined the server (0:103.140.16.47)
+[00:24:11] [sv:dbg:network:receive] : player (0) identified (port:1180)
+[00:26:32] AdmCmd: Developer Jef Costello has logged in.
+[00:27:12] [cmd] Jef Costello: [phone]
+[00:28:28] [cmd] Jef Costello: [refund]
+[00:28:37] [cmd] Jef Costello: [phone]
+[00:29:12] [cmd] Jef Costello: [sb]
+[00:29:50] [cmd] Jef Costello: [vendor]
+[00:30:00] [cmd] Jef Costello: [vendor]
+[00:30:11] [cmd] Jef Costello: [inv]
+[00:35:47] [cmd] Jef Costello: [vendor]
+[00:35:55] [cmd] Jef Costello: [vendor]
+[00:36:02] [cmd] Jef Costello: [vendor]
+[00:36:09] [cmd] Jef Costello: [vendor]
+[00:36:13] [cmd] Jef Costello: [vendor]
+[00:36:24] [cmd] Jef Costello: [sb]
+[00:48:44] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:48:44] [part] Jef_Costello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:54:38] password = ""  (string)
+[01:54:38] weburl = "www.sa-mp.com"  (string)
+[01:54:38] password = ""  (string)
+[01:54:38] 
+[01:54:38] Server Plugins
+[01:54:38] --------------
+[01:54:38]  Loading plugin: discord-connector.so
+[01:54:40]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: crashdetect.so
+[01:54:40]   CrashDetect plugin 4.19.4
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: whirlpool.so
+[01:54:40]  
+[01:54:40]  ==================
+[01:54:40]  
+[01:54:40]   Whirlpool loaded
+[01:54:40]  
+[01:54:40]  ==================
+[01:54:40]  
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: pawncmd.so
+[01:54:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: sscanf.so
+[01:54:40] 
+
+[01:54:40]  ===============================
+
+[01:54:40]       sscanf plugin loaded.     
+
+[01:54:40]          Version:  2.8.3        
+
+[01:54:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:54:40]  ===============================
+
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: streamer.so
+[01:54:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: SKY.so
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: mysql_static.so
+[01:54:40]  >> plugin.mysql: R39-6 successfully loaded.
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: sampvoice.so
+[01:54:40] [sv:dbg:network:init] : module initializing...
+[01:54:40] [dbg:raknet:init] : module initializing...
+[01:54:40] [dbg:raknet:init] : module initialized
+[01:54:40] [sv:dbg:network:init] : module initialized
+[01:54:40] [sv:dbg:main:Load] : creating 1 work threads...
+[01:54:40]  -------------------------------------------    
+[01:54:40]    ___                __   __    _              
+[01:54:40]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[01:54:40]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[01:54:40]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[01:54:40]                   |_|                           
+[01:54:40]  -------------------------------------------    
+[01:54:40]            SampVoice by MOR loaded              
+[01:54:40]  -------------------------------------------    
+[01:54:40]   Loaded.
+[01:54:40]  Loading plugin: nativechecker.so
+[01:54:40]   Loaded.
+[01:54:40]  Loaded 10 plugins.
+
+[01:54:40] 
+[01:54:40] Filterscripts
+[01:54:40] ---------------
+[01:54:40]   Loading filterscript 'android-check.amx'...
+[01:54:40] [sv:dbg:main:AmxLoad] : net game pointer (value:0x9ed7780) received
+[01:54:40] [sv:dbg:network:bind] : voice server running on port 59549
+[01:54:40] Android check has been successfully loaded.
+[01:54:40]   Loaded 1 filterscripts.
+
+[01:54:40] OnScriptInit 1
+[01:54:40]  
+[01:54:40]  
+[01:54:40]  
+[01:54:40]  ======================================= 
+[01:54:40]  |                                     | 
+[01:54:40]  |        YSI version 1.06.0002        | 
+[01:54:40]  |        By Alex "Y_Less" Cole        | 
+[01:54:40]  |                                     | 
+[01:54:40]  ======================================= 
+[01:54:40]  
+[01:54:40] OnScriptInit 2
+[01:54:40] OnScriptInit 3
+[01:54:40] Iter_OnGameModeInit start: 1000
+[01:54:40] MapFix by Nexius v4.2.1 loaded (include version).
+[01:54:40] Couldn't connect to radio station database... server will continue to operate normally.
+[01:54:40] [LoadAntiCheat] Loading data from database...
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] sscanf warning: Format specifier does not match parameter count.
+[01:54:40] Long Genaration Roleplay
+[01:54:40] 225 objects loaded.
+[01:54:40] Iter_OnGameModeInit: first
+[01:54:40] OnScriptInit 4
+[01:54:40]  
+[01:54:40] -------------------------------------------
+[01:54:40] Loading...
+[01:54:40] Long Genaration Roleplay (2020 - 2022)
+[01:54:40] -------------------------------------------
+[01:54:40]  
+[01:54:40] Number of vehicle models: 12
+[01:54:40] [Script] 0 houses loaded.
+[01:54:40] [Script] 0 garages loaded.
+[01:54:40] [Script] 5 businesses loaded.
+[01:54:40] [Script] 154 entrances loaded.
+[01:54:40] [Script] 7 factions loaded.
+[01:54:40] [Script] 0 lands loaded.
+[01:54:40] [Script] 0 gangs loaded.
+[01:54:40] [Script] 8 points loaded.
+[01:54:40] [Script] 20 turfs loaded.
+[01:54:40] [Script] 0 safezone(s) loaded
+[01:54:40] [Script] 6 speed camera(s) loaded
+[01:54:40] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[01:56:27] [connection] 103.140.16.47:1441 requests connection cookie.
+[01:56:28] [connection] incoming connection: 103.140.16.47:1441 id: 0
+[01:56:29] [sv:dbg:network:connect] : connecting player (0) with address (103.140.16.47) ...
+[01:56:29] [sv:dbg:network:connect] : player (0) assigned key (2f108c67a559f0d3)
+[01:56:29] [join] Jef_Costello has joined the server (0:103.140.16.47)
+[01:56:29] [sv:dbg:network:receive] : player (0) identified (port:2933)
+[01:57:12] AdmCmd: Developer Jef Costello has logged in.
+[01:58:04] Jef Costello has teleported to Boating Test.
+[01:58:04] [cmd] Jef Costello: [goto]
+[01:58:08] [cmd] Jef Costello: [goto]
+[01:58:18] Jef Costello has teleported to Gaton Hospital.
+[01:58:18] [cmd] Jef Costello: [goto]
+[02:00:58] Server: Saved Accounts
+[02:03:23] [cmd] Jef Costello: [factions]
+[02:05:38] [cmd] Jef Costello: [vst]
+[02:05:47] [cmd] Jef Costello: [findcar]
+[02:05:53] [cmd] Jef Costello: [sb]
+[02:06:50] Jef Costello has teleported to Mall.
+[02:06:50] [cmd] Jef Costello: [goto]
+[02:07:25] [cmd] Jef Costello: [sb]
+[02:08:39] [cmd] Jef Costello: [sb]
+[02:11:04] [cmd] Jef Costello: [rules]
+[02:11:52] [cmd] Jef Costello: [points]
+[02:12:10] [cmd] Jef Costello: [turfs]
+[02:12:36] [cmd] Jef Costello: [phone]
+[02:13:32] [cmd] Jef Costello: [sb]
+[02:16:19] [cmd] Jef Costello: [revive]
+[02:16:22] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[02:16:22] AdmCmd: Jef Costello has revived Jef Costello. REASON: 1
+[02:16:22] [cmd] Jef Costello: [revive]
+[02:16:34] [cmd] Jef Costello: [findcar]
+[02:16:48] [cmd] Jef Costello: [fixvw]
+[02:16:53] [cmd] Jef Costello: [sb]
+[02:17:11] [cmd] Jef Costello: [phone]
+[02:17:52] [cmd] Jef Costello: [sb]
+[02:19:45] [cmd] Jef Costello: [sb]
+[02:20:28] [cmd] Jef Costello: [sb]
+[02:21:20] [cmd] Jef Costello: [sb]
+[02:22:14] [cmd] Jef Costello: [sb]
+[02:23:32] [cmd] Jef Costello: [sb]
+[02:25:24] [cmd] Jef Costello: [give]
+[02:25:37] [cmd] Jef Costello: [givemoney]
+[02:25:47] AdmCmd: Jef Costello has given $100000000 to Jef Costello.
+[02:25:47] [cmd] Jef Costello: [givemoney]
+[02:25:58] [cmd] Jef Costello: [sb]
+[02:26:50] [cmd] Jef Costello: [deposit]
+[02:27:07] [cmd] Jef Costello: [sb]
+[02:28:33] [cmd] Jef Costello: [buyvehicle]
+[02:29:01] [cmd] Jef Costello: [sb]
+[02:29:12] [cmd] Jef Costello: [paytickets]
+[02:29:35] Jef Costello has teleported to Mulholland Bank.
+[02:29:35] [cmd] Jef Costello: [goto]
+[02:30:32] [cmd] Jef Costello: [deposit]
+[02:30:53] [cmd] Jef Costello: [top]
+[02:31:05] [cmd] Jef Costello: [top]
+[02:31:19] [cmd] Jef Costello: [top]
+[02:31:39] [cmd] Jef Costello: [sb]
+[02:32:32] [cmd] Jef Costello: [charity]
+[02:32:43] [cmd] Jef Costello: [charity]
+[02:32:56] [cmd] Jef Costello: [charity]
+[02:35:22] [cmd] Jef Costello: [phone]
+[02:35:55] [cmd] Jef Costello: [phone]
+[02:36:21] [cmd] Jef Costello: [info]
+[02:40:37] [sv:dbg:network:connect] : disconnecting player (0) ...
+[02:40:37] [part] Jef_Costello has left the server (0:1)
+[03:25:37] [connection] 49.15.95.199:40144 requests connection cookie.
+[03:25:37] [connection] incoming connection: 49.15.95.199:40144 id: 0
+[03:25:38] [sv:dbg:network:connect] : connecting player (0) with address (49.15.95.199) ...
+[03:25:38] [sv:dbg:network:connect] : player (0) assigned key (c75f0f31bff10feb)
+[03:25:38] [join] Chekuthan_Lazar has joined the server (0:49.15.95.199)
+[03:25:38] [sv:dbg:network:receive] : player (0) identified (port:38921)
+[03:25:49] AdmCmd: Developer Chekuthan Lazar has logged in.
+[03:26:08] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[03:26:08] AdmCmd: Chekuthan Lazar has revived Chekuthan Lazar. REASON: help
+[03:26:08] [cmd] Chekuthan Lazar: [revive]
+[03:26:27] [cmd] Chekuthan Lazar: [goto]
+[03:26:35] [cmd] Chekuthan Lazar: [goto]
+[03:26:42] Chekuthan Lazar has teleported to LS Airport.
+[03:26:42] [cmd] Chekuthan Lazar: [goto]
+[03:26:53] [cmd] Chekuthan Lazar: [createpg]
+[03:27:01] [cmd] Chekuthan Lazar: [createpg]
+[03:28:15] [cmd] Chekuthan Lazar: [settime]
+[03:28:21] [cmd] Chekuthan Lazar: [settime]
+[03:29:12] Chekuthan Lazar has teleported to Mall.
+[03:29:12] [cmd] Chekuthan Lazar: [goto]
+[03:31:23] [cmd] Chekuthan Lazar: [createpg]
+[03:31:55] AdmCmd: Chekuthan Lazar has given a jetpack to Chekuthan Lazar.
+[03:31:55] [cmd] Chekuthan Lazar: [jetpack]
+[03:33:38] AdmCmd: Chekuthan Lazar has given a jetpack to Chekuthan Lazar.
+[03:33:38] [cmd] Chekuthan Lazar: [jetpack]
+[03:35:38] Chekuthan Lazar has teleported to Mall.
+[03:35:38] [cmd] Chekuthan Lazar: [goto]
+[03:35:51] [cmd] Chekuthan Lazar: [goto]
+[03:36:05] [cmd] Chekuthan Lazar: [top]
+[03:36:34] [sv:dbg:network:connect] : disconnecting player (0) ...
+[03:36:34] [part] Chekuthan_Lazar has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:52:23] password = ""  (string)
+[12:52:23] weburl = "www.sa-mp.com"  (string)
+[12:52:23] password = ""  (string)
+[12:52:23] cookielogging = 1  (int)
+[12:52:23] 
+[12:52:23] Server Plugins
+[12:52:23] --------------
+[12:52:23]  Loading plugin: discord-connector.so
+[12:52:24]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: crashdetect.so
+[12:52:24]   CrashDetect plugin 4.19.4
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: whirlpool.so
+[12:52:24]  
+[12:52:24]  ==================
+[12:52:24]  
+[12:52:24]   Whirlpool loaded
+[12:52:24]  
+[12:52:24]  ==================
+[12:52:24]  
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: pawncmd.so
+[12:52:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: sscanf.so
+[12:52:24] 
+
+[12:52:24]  ===============================
+
+[12:52:24]       sscanf plugin loaded.     
+
+[12:52:24]          Version:  2.8.3        
+
+[12:52:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:52:24]  ===============================
+
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: streamer.so
+[12:52:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: SKY.so
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: mysql_static.so
+[12:52:24]  >> plugin.mysql: R39-6 successfully loaded.
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: sampvoice.so
+[12:52:24] [sv:dbg:network:init] : module initializing...
+[12:52:24] [dbg:raknet:init] : module initializing...
+[12:52:24] [dbg:raknet:init] : module initialized
+[12:52:24] [sv:dbg:network:init] : module initialized
+[12:52:24] [sv:dbg:main:Load] : creating 1 work threads...
+[12:52:24]  -------------------------------------------    
+[12:52:24]    ___                __   __    _              
+[12:52:24]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:52:24]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:52:24]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:52:24]                   |_|                           
+[12:52:24]  -------------------------------------------    
+[12:52:24]            SampVoice by MOR loaded              
+[12:52:24]  -------------------------------------------    
+[12:52:24]   Loaded.
+[12:52:24]  Loading plugin: nativechecker.so
+[12:52:24]   Loaded.
+[12:52:24]  Loaded 10 plugins.
+
+[12:52:24] 
+[12:52:24] Filterscripts
+[12:52:24] ---------------
+[12:52:24]   Loading filterscript 'android-check.amx'...
+[12:52:24] [sv:dbg:main:AmxLoad] : net game pointer (value:0x839d770) received
+[12:52:24] [sv:dbg:network:bind] : voice server running on port 32806
+[12:52:24] Android check has been successfully loaded.
+[12:52:24]   Loaded 1 filterscripts.
+
+[12:52:24] OnScriptInit 1
+[12:52:24]  
+[12:52:24]  
+[12:52:24]  
+[12:52:24]  ======================================= 
+[12:52:24]  |                                     | 
+[12:52:24]  |        YSI version 1.06.0002        | 
+[12:52:24]  |        By Alex "Y_Less" Cole        | 
+[12:52:24]  |                                     | 
+[12:52:24]  ======================================= 
+[12:52:24]  
+[12:52:24] OnScriptInit 2
+[12:52:24] OnScriptInit 3
+[12:52:24] Iter_OnGameModeInit start: 1000
+[12:52:24] MapFix by Nexius v4.2.1 loaded (include version).
+[12:52:24] Couldn't connect to radio station database... server will continue to operate normally.
+[12:52:24] [LoadAntiCheat] Loading data from database...
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] sscanf warning: Format specifier does not match parameter count.
+[12:52:24] Long Genaration Roleplay
+[12:52:25] 225 objects loaded.
+[12:52:25] Iter_OnGameModeInit: first
+[12:52:25] OnScriptInit 4
+[12:52:25]  
+[12:52:25] -------------------------------------------
+[12:52:25] Loading...
+[12:52:25] Long Genaration Roleplay (2020 - 2022)
+[12:52:25] -------------------------------------------
+[12:52:25]  
+[12:52:25] Number of vehicle models: 12
+[12:52:25] [Script] 0 houses loaded.
+[12:52:25] [Script] 0 garages loaded.
+[12:52:25] [Script] 5 businesses loaded.
+[12:52:25] [Script] 154 entrances loaded.
+[12:52:25] [Script] 7 factions loaded.
+[12:52:25] [Script] 0 lands loaded.
+[12:52:25] [Script] 0 gangs loaded.
+[12:52:25] [Script] 8 points loaded.
+[12:52:25] [Script] 20 turfs loaded.
+[12:52:25] [Script] 0 safezone(s) loaded
+[12:52:25] [Script] 6 speed camera(s) loaded
+[12:52:25] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[16:49:22] [connection] 110.235.233.95:40924 requests connection cookie.
+[16:49:22] [connection] incoming connection: 110.235.233.95:40924 id: 0
+[16:49:23] [sv:dbg:network:connect] : connecting player (0) with address (110.235.233.95) ...
+[16:49:23] [sv:dbg:network:connect] : player (0) assigned key (5fe9eb6efe0bc802)
+[16:49:23] [join] Bruce_Banner has joined the server (0:110.235.233.95)
+[16:49:23] [sv:dbg:network:receive] : player (0) identified (port:47498)
+[16:50:09] New Account: {006400}[Bruce Banner(0)] with an IP of (110.235.233.95).
+[16:50:56] [cmd] Bruce Banner: [refund]
+[16:51:10] [cmd] Bruce Banner: [settings]
+[16:51:21] [cmd] Bruce Banner: [settings]
+[16:51:53] [cmd] Bruce Banner: [verify]
+[16:51:58] [cmd] Bruce Banner: [settings]
+[16:52:12] [cmd] Bruce Banner: [verify]
+[16:52:28] [cmd] Bruce Banner: [settings]
+[16:52:54] [cmd] Bruce Banner: [verify]
+[16:53:48] [cmd] Bruce Banner: [vst]
+[16:54:04] [cmd] Bruce Banner: [buy]
+[16:54:09] [cmd] Bruce Banner: [buy]
+[16:54:15] [cmd] Bruce Banner: [buy]
+[16:54:30] [cmd] Bruce Banner: [phone]
+[16:55:09] [cmd] Bruce Banner: [call]
+[16:55:16] [cmd] Bruce Banner: [phone]
+[17:01:52] [sv:dbg:network:connect] : disconnecting player (0) ...
+[17:01:52] [part] Bruce_Banner has left the server (0:0)
+[17:02:01] [connection] 110.235.233.95:33332 requests connection cookie.
+[17:02:01] [connection] incoming connection: 110.235.233.95:33332 id: 0
+[17:02:02] [sv:dbg:network:connect] : connecting player (0) with address (110.235.233.95) ...
+[17:02:02] [sv:dbg:network:connect] : player (0) assigned key (5fe9eb6e4e95d5d6)
+[17:02:02] [join] Bruce_Banner has joined the server (0:110.235.233.95)
+[17:02:02] [sv:dbg:network:receive] : player (0) identified (port:58518)
+[17:02:13] AdmCmd: Server Manager Bruce Banner has logged in.
+[17:02:21] [chat] [Bruce_Banner]: vst
+[17:02:23] [cmd] Bruce Banner: [vst]
+[17:02:31] AdmCmd: Bruce Banner spawned a NRG-500.
+[17:02:31] [cmd] Bruce Banner: [veh]
+[17:05:56] [sv:dbg:network:connect] : disconnecting player (0) ...
+[17:05:56] [part] Bruce_Banner has left the server (0:0)
+[17:06:01] [connection] 110.235.233.95:37691 requests connection cookie.
+[17:06:01] [connection] incoming connection: 110.235.233.95:37691 id: 0
+[17:06:02] [sv:dbg:network:connect] : connecting player (0) with address (110.235.233.95) ...
+[17:06:02] [sv:dbg:network:connect] : player (0) assigned key (5fe9eb6e4f3602b7)
+[17:06:02] [join] Bruce_Banner has joined the server (0:110.235.233.95)
+[17:06:02] [sv:dbg:network:receive] : player (0) identified (port:52996)
+[17:06:12] AdmCmd: Server Manager Bruce Banner has logged in.
+[17:06:29] [cmd] Bruce Banner: [goto]
+[17:06:39] Bruce Banner has teleported to Gaton Hospital.
+[17:06:39] [cmd] Bruce Banner: [goto]
+[17:06:42] [warning] client exceeded 'ackslimit' 110.235.233.95:37691 (3364) Limit: 3000/sec
+[17:06:52] [sv:dbg:network:connect] : disconnecting player (0) ...
+[17:06:52] [part] Bruce_Banner has left the server (0:0)

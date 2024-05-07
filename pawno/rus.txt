@@ -1,0 +1,11 @@
+C:\users\TechBravo\Desktop\gamemodespcrp\shet.pwn(9097) : îøèáêà 001: îæèäàëñÿ òîêåí "-string end-", íî íàéäåí "-identifier-"
+C:\users\TechBravo\Desktop\gamemodespcrp\shet.pwn(9097) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\users\TechBravo\Desktop\gamemodespcrp\shet.pwn(9097) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "n"
+C:\users\TechBravo\Desktop\gamemodespcrp\shet.pwn(9097) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Îøèáîê:4.
